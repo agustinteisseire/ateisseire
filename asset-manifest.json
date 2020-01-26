@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/agustinteisseire/ateisseire/static/css/main.d1b05096.chunk.css",
-    "main.js": "/agustinteisseire/ateisseire/static/js/main.167919e0.chunk.js",
-    "main.js.map": "/agustinteisseire/ateisseire/static/js/main.167919e0.chunk.js.map",
-    "runtime-main.js": "/agustinteisseire/ateisseire/static/js/runtime-main.0e48253d.js",
-    "runtime-main.js.map": "/agustinteisseire/ateisseire/static/js/runtime-main.0e48253d.js.map",
-    "static/js/2.3f2f9055.chunk.js": "/agustinteisseire/ateisseire/static/js/2.3f2f9055.chunk.js",
-    "static/js/2.3f2f9055.chunk.js.map": "/agustinteisseire/ateisseire/static/js/2.3f2f9055.chunk.js.map",
-    "index.html": "/agustinteisseire/ateisseire/index.html",
-    "precache-manifest.f026acbb1a2e2ea74469f73f3f2ff17d.js": "/agustinteisseire/ateisseire/precache-manifest.f026acbb1a2e2ea74469f73f3f2ff17d.js",
-    "service-worker.js": "/agustinteisseire/ateisseire/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/agustinteisseire/ateisseire/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3f2f9055.chunk.js.LICENSE": "/agustinteisseire/ateisseire/static/js/2.3f2f9055.chunk.js.LICENSE",
-    "static/media/logo.svg": "/agustinteisseire/ateisseire/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ateisseire/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ateisseire/static/js/main.61417431.chunk.js",
+    "main.js.map": "/ateisseire/static/js/main.61417431.chunk.js.map",
+    "runtime-main.js": "/ateisseire/static/js/runtime-main.0ce3b770.js",
+    "runtime-main.js.map": "/ateisseire/static/js/runtime-main.0ce3b770.js.map",
+    "static/js/2.3f2f9055.chunk.js": "/ateisseire/static/js/2.3f2f9055.chunk.js",
+    "static/js/2.3f2f9055.chunk.js.map": "/ateisseire/static/js/2.3f2f9055.chunk.js.map",
+    "index.html": "/ateisseire/index.html",
+    "precache-manifest.416f4991039a7e52f5edc359b81c690c.js": "/ateisseire/precache-manifest.416f4991039a7e52f5edc359b81c690c.js",
+    "service-worker.js": "/ateisseire/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ateisseire/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3f2f9055.chunk.js.LICENSE": "/ateisseire/static/js/2.3f2f9055.chunk.js.LICENSE",
+    "static/media/logo.svg": "/ateisseire/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e48253d.js",
+    "static/js/runtime-main.0ce3b770.js",
     "static/js/2.3f2f9055.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.167919e0.chunk.js"
+    "static/js/main.61417431.chunk.js"
   ]
 }
