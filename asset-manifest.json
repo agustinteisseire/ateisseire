@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agustinteisseire/ateisseire/static/css/main.d1b05096.chunk.css",
+    "main.js": "/agustinteisseire/ateisseire/static/js/main.167919e0.chunk.js",
+    "main.js.map": "/agustinteisseire/ateisseire/static/js/main.167919e0.chunk.js.map",
+    "runtime-main.js": "/agustinteisseire/ateisseire/static/js/runtime-main.0e48253d.js",
+    "runtime-main.js.map": "/agustinteisseire/ateisseire/static/js/runtime-main.0e48253d.js.map",
+    "static/js/2.3f2f9055.chunk.js": "/agustinteisseire/ateisseire/static/js/2.3f2f9055.chunk.js",
+    "static/js/2.3f2f9055.chunk.js.map": "/agustinteisseire/ateisseire/static/js/2.3f2f9055.chunk.js.map",
+    "index.html": "/agustinteisseire/ateisseire/index.html",
+    "precache-manifest.f026acbb1a2e2ea74469f73f3f2ff17d.js": "/agustinteisseire/ateisseire/precache-manifest.f026acbb1a2e2ea74469f73f3f2ff17d.js",
+    "service-worker.js": "/agustinteisseire/ateisseire/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/agustinteisseire/ateisseire/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3f2f9055.chunk.js.LICENSE": "/agustinteisseire/ateisseire/static/js/2.3f2f9055.chunk.js.LICENSE",
+    "static/media/logo.svg": "/agustinteisseire/ateisseire/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e48253d.js",
+    "static/js/2.3f2f9055.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.167919e0.chunk.js"
+  ]
+}
